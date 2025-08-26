@@ -1,0 +1,5 @@
+benefits of eval board and quick start info
+https://riverdi.com/blog/stm32-evaluation-board-that-turns-your-display-on#STM32_Evaluation_Board_allows_you_to_work_with_the_display_in_three_modes
+
+display
+https://riverdi.com/product/eve4-intelligent-display-rvt50hqbnwc00-b-5-inch-projected-capacitive-touch-panel-optical-bonding-uxtouch

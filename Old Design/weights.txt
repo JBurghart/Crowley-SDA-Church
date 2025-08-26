@@ -1,0 +1,12 @@
+4.5 - 5 lbs/ ft aluminum trussing
+
+5*40ft = 200 lbs
+
+lights 20lbs each
+7*20lbs = 140 lbs
+
+total weight = 200 lbs + 140 lbs = 340 lbs
+weight on center point = 340/3 = 113.33 lbs
+
+scale max = 200KG = 440 lbs
+overload = 440*1.5 = 660 lbs

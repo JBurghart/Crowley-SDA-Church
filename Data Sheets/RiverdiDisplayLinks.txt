@@ -1,3 +1,0 @@
-benefits of eval board and quick start info
-https://riverdi.com/blog/stm32-evaluation-board-that-turns-your-display-on#STM32_Evaluation_Board_allows_you_to_work_with_the_display_in_three_modes
-
